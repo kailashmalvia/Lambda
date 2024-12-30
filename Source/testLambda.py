@@ -4,5 +4,5 @@ def lambda_handler(event, context):
     # TODO implement
     return {
         'statusCode': 200,
-        'body': json.dumps('Hello from Lambda! First Commit change for audit report')
+        'body': json.dumps('audit report')
     }
